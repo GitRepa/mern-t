@@ -1,0 +1,14 @@
+@import '~bootstrap/dist/css/bootstrap.min.css';
+
+.card {
+    &-80 {
+        width: 48rem;
+        
+    }
+
+    .form-text {
+        &__color {
+            color: #6c757d;
+        }
+    }
+}

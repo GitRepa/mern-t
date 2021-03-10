@@ -1,0 +1,5 @@
+{
+    "port": 5000,
+    "jwtSecret": "Libra Z token",
+    "mongoURL": "mongodb+srv://libraZ:footer-251-xesh@cluster0.n1qvf.mongodb.net/app?retryWrites=true&w=majority"
+}
